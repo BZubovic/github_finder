@@ -8,6 +8,8 @@ import About from './components/pages/About';
 import User from './components/users/User';
 import './App.css';
 import axios from 'axios';
+
+//zub je debil
 const githubid = '6ba2ea9421a8da962ae1';
 const githubsecret = '724d0dc5e34df05cb03238518ee8dd80816d7401';
 const App = () => {
